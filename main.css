@@ -1,0 +1,29 @@
+
+a{text-decoration:none;color: white; size :22px}
+body{;background:url()}
+body {
+    background: url(oboi.jpg) no-repeat;
+    -moz-background-size: 15%; /* Firefox 3.6+ */
+    -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+    -o-background-size: 100%; /* Opera 9.6+ */
+    background-size: 100%; /* Современные браузеры */
+   padding-top: 0px;font-family: monospace;}
+.z{display: flex;background-color: white;padding: ; border: 3px solid rgb(255, 255, 255)
+    ;font-size: 15px;
+    border-radius: 4px; padding-right: 15;}
+.w{font-weight: bold;padding-right: 15px}
+.e{font-weight: bold;padding-right: 15;}
+.q{margin-left: 5; display: block;
+    max-width: 100%;
+    height: auto;}
+    h1{color: black ;}
+    p{color: black;font-weight: bold}
+    .t{display: flex; padding-top: 50px;padding-left: 50;background-color: white;border:3px solid white;border-radius: 4px;
+        padding-top: 50px}
+    
+    
+      
+      .abob{text-align: center;background-color: white;border:3px solid white;border-radius: 4px;}
+      .none{text-align: center;background-color: white;border:3px solid white;border-radius: 4px;}
+      button{width: 200;height: 300;color: cornflowerblue;}
+     
